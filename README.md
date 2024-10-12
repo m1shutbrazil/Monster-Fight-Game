@@ -31,7 +31,7 @@ This is a terminal-based monster fighting game implemented in C++. The player mu
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Monster-Fight-Game-cpp.git
-   cd moster-fight-game-cpp
+   cd monster-fight-game-cpp
 2. Compile the programm
    ```bash
    g++ -o game game.cpp
